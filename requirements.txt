@@ -1,0 +1,10 @@
+PyPDF2
+langchain
+openai
+tiktoken
+faiss-cpu
+pdf2image
+pytesseract
+pyautogui
+streamlit
+sentence-transformers
