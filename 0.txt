@@ -1,0 +1,613 @@
+Benefits for Solutions Partner designations
+Benefits for specializations & expert programs
+Product benefits for Microsoft Action Pack
+Benefits table for Microsoft Learning Action PackMicrosoft AI Cloud Partner Program
+Benefits GuideMicrosoft AI Cloud Partner 
+Program Benefits Guide 
+The information in this document is intended to help partners understand the updated benefits for 
+Solutions Partner designations, specializations and expert programs, and product benefits for 
+Microsoft Action Pack. Note that eligible Solutions Partners who renew a legacy competency by 
+September 30, 2022, may choose instead to retain their legacy competency benefits (by paying the 
+aligned fee) as outlined in Partner Center and the FAQ .
+The content herein is being provided solely for discussion and general information purposes. 
+Program information herein is subject to change and should not be interpreted as an offer, 
+endorsement, guarantee, commitment or any other type of representation on the part of Microsoft. 
+All decisions pertaining and related to your business needs including but not limited to strategies, 
+solutions, partner selection, implementation, etc. rests solely with your business. Be sure to review 
+the benefits information in Partner Center before paying the annual fee. Partners must comply with 
+the use terms and policies regarding benefits and license use rights and limitations about each 
+software product or online service as outlined in the Microsoft AI Cloud Partner Program Terms of 
+Participation Guide . For more information, refer to the links below:
+Learn more about the Solutions Partner designations in Partner Center  or on the Microsoft partner 
+website .
+Learn more about managing your Benefits .
+Table of Contents
+Section Page
+Benefits included with all Solutions Partner designations 3
+•Marketing benefits 3
+•Support and advisory benefits 3
+Designation or program specific benefits (incremental) 4
+•Product benefits for Solutions Partner designations 5
+•Product benefits for specializations  and expert programs 18
+Illustrative example 22
+Change log 23
+Product benefits table for Microsoft Action Pack & Learning Action Pack 25
+Benefits table for Microsoft Learning Action Pack 29
+2LAST UPDATED: 
+July 18, 2023Benefits included with all Solutions 
+Partner designations 
+Benefits included with all Solutions Partner designations, otherwise known as common 
+benefits, are provided once irrespective of which Solutions Partner designation(s) are 
+attained.
+These benefits are generally provided at the same quantities as those for legacy gold 
+competency partners. Details are subject to change.
+Marketing benefits (or ‘go -to-market’)
+Name or description Quantity
+Partner Go -To-Market Toolbox ✓
+How to Market with Microsoft Consultation ✓
+Profile Optimization and Referral Management ✓
+Digital Marketing Content OnDemand (DMC) ✓
+Ready -to-Go Marketing Assets (Partner Marketing Center) ✓
+Geo Expansion Readiness Assessment ✓*
+Support and advisory benefits (formerly ‘technical benefits’)
+Name or description Quantity
+Technical presales and deployment services (TP&D)
+•Advisory hours to help plan, build and implement solutions
+•Assistance with technical sales prep and deal enablement50 hours
+Unlimited
+Signature Cloud Support incidents Unlimited
+Microsoft Product Support (on -premise) incidents 20
+3*Refer to the Change log item no. 1 for more details.Solutions Partner designation 
+specific benefits (incremental)
+Benefits which are specific to and depend on the designation(s) attained, otherwise 
+known as incremental benefits, are additive (exceptions apply) to each other and to 
+common benefits. In particular, product  benefits (formerly ‘Internal Use Rights’, or ‘IURs’) 
+are aligned to the Solutions Partner designations and to specialization and expert 
+programs.
+Product and offer terms and conditions apply. Details are subject to change.
+Incremental product benefit categories (with links)
+Solutions Partner designations
+Business Applications
+Data & AI (Azure) 
+Digital & App Innovation 
+(Azure)
+Infrastructure (Azure) 
+Modern Work
+Security  
+Note: Solutions Partner product benefits for 
+Data & AI, Digital & App Innovation, and 
+Infrastructure (Azure) have a set of benefits 
+which are ‘core’ across the three.Specializations and expert 
+programs
+Azure
+Business Applications
+Modern Work
+Security
+Notes: The classification of specializations and 
+expert programs for the purposes of benefits 
+provisioning is based on the specialization 
+classification listed here. Product benefits for 
+specializations and expert programs are capped 
+at a particular amount by category as set out in 
+this document. 
+4Solutions Partner designation 
+product benefits
+5Business Applications product benefits
+Microsoft product name or description Quantity Type
+Dynamics 365 Business Central Premium 100 users
+Dynamics 365 Customer Insights 1 tenant
+Dynamics 365 Customer Service Enterprise 100 users
+Dynamics 365 Finance 100 users
+Dynamics 365 Human Resources 100 users
+Dynamics 365 Marketing (Base Pack) 1 tenant
+Dynamics 365 Project Operations 100 users
+Dynamics 365 Sales Enterprise 100 users
+Dynamics 365 Team Members 100 users
+Dynamics 365 Partner Sandbox – Operations Application 25 users
+Dynamics 365 Partner Sandbox – Operations Application Tier 
+2 Add on1 tenant
+Dynamics 365 Partner Sandbox – Sales, Field Service and 
+Customer Service25 usersBusiness Applications product benefits (continued)
+Microsoft product name or description Quantity Type
+Dynamics 365 Partner Sandbox – Sales Insights 5 users
+Dynamics 365 Partner Sandbox – Marketing 1 tenant
+Dynamics 365 Partner Sandbox – eCommerce and Cloud
+Scale Unit 1 tenant
+Dynamics 365 Partner Sandbox – Fraud Protection 1 tenant
+Dynamics 365 Partner Sandbox – Guides 1 user
+Dynamics 365 Partner Sandbox – Intelligent Order 
+Management1 tenant
+Dynamics 365 Partner Sandbox – Human Resources 5 users
+Dynamics 365 Partner Sandbox – Customer Service Digital 
+Messaging 5 users
+Dynamics 365 Partner Sandbox – Business Central 5 users
+Microsoft 365 E3 100 users
+Microsoft Project Online (Plan 5) 20 users
+Power BI Premium 100 users
+Visio Online (Plan 2) 5 users
+Visual Studio Enterprise subscriptions * 25 users
+Microsoft SQL Server Enterprise - per core (2019, or current) 16 licenses
+6*Refer to the Change log item no. 2 for more details.Business Applications product benefits (continued) 
+Microsoft product name or description Quantity Type
+System Center Client Management Suite (2022, or current)* 100 licenses
+Microsoft Endpoint Configuration Manager (2019, or current)
+(formerly System Center Configuration Manager Suite)100 licenses
+System Center Endpoint Protection (2019, or current) 100 licenses
+System Center Standard (2022, or current)* 32 licenses
+Windows 11 IoT Enterprise Not yet in market*
+Windows Server CALs (not edition -specific) 100 licenses
+Windows Server Datacenter - per core (2022, or current) 32 licenses
+Windows Server Remote Desktop Services (RDS) CALs (not 
+edition -specific)100 licenses
+Windows Server Standard - per core (2022, or current) 100 licenses
+Windows Storage Server Workgroup (2016) 2 licenses
+7 *Refer to the Change log items no. 3 and 6 for more details.Data & AI (Azure) product benefits
+Microsoft product name or description Quantity Type
+Azure Bulk Credits (Production) $6,000 per year
+Visual Studio Enterprise subscriptions * 25 users
+Products listed below are ‘core’ (granted once and not incremental) across only the 
+Data & AI, Digital & App Innovation, and Infrastructure (Azure) Solutions Partner 
+designations
+Dynamics 365 Partner Sandbox – Operations Application 25 users
+Dynamics 365 Partner Sandbox – Sales, Field Service and 
+Customer Service25 users
+Microsoft 365 E3 100 users
+Microsoft Project Online (Plan 5) 20 users
+Power BI Premium 100 users
+Visio Online (Plan 2) 5 users
+Microsoft SQL Server Enterprise - per core (2019, or current) 16 licenses
+System Center Client Management Suite (2022 , or current)* 100 licenses
+Microsoft Endpoint Configuration Manager (2019, or current)
+(formerly System Center Configuration Manager Suite)100 licenses
+System Center Endpoint Protection (2019, or current) 100 licenses
+8*Refer to the Change log items no. 2 and 6 for more details.Data & AI (Azure) product benefits (continued)
+Microsoft product name or description Quantity Type
+System Center Standard (2022, or current)* 32 licenses
+Windows 11 IoT Enterprise Not yet in market*
+Windows Server CALs (not edition -specific) 100 licenses
+Windows Server Datacenter - per core (2022, or current) 32 licenses
+Windows Server Remote Desktop Services (RDS) CALs (not 
+edition -specific)100 licenses
+Windows Server Standard - per core (2022, or current) 100 licenses
+Windows Storage Server Workgroup (2016) 2 licenses
+9*Refer to the Change log items no. 3 and 6 for more details.Digital & App Innovation (Azure) product benefits
+Microsoft product name or description Quantity Type
+Azure Bulk Credits (Production) $6,000 per year
+Visual Studio Enterprise subscriptions * 25 users
+Products listed below are ‘core’ (granted once and not incremental) across only the 
+Data & AI, Digital & App Innovation, and Infrastructure (Azure) Solutions Partner 
+designations
+Dynamics 365 Partner Sandbox – Operations Application 25 users
+Dynamics 365 Partner Sandbox – Sales, Field Service and 
+Customer Service25 users
+Microsoft 365 E3 100 users
+Microsoft Project Online (Plan 5) 20 users
+Power BI Premium 100 users
+Visio Online (Plan 2) 5 users
+Microsoft SQL Server Enterprise - per core (2019, or current) 16 licenses
+System Center Client Management Suite (2022 , or current)* 100 licenses
+Microsoft Endpoint Configuration Manager (2019, or current)
+(formerly System Center Configuration Manager Suite)100 licenses
+System Center Endpoint Protection (2019, or current) 100 licenses
+10*Refer to the Change log items no. 2 and 6 for more details.Digital & App Innovation (Azure) product benefits (continued)
+Microsoft product name or description Quantity Type
+System Center Standard (2022, or current)* 32 licenses
+Windows 11 IoT Enterprise Not yet in market*
+Windows Server CALs (not edition -specific) 100 licenses
+Windows Server Datacenter - per core (2022, or current) 32 licenses
+Windows Server Remote Desktop Services (RDS) CALs (not 
+edition -specific)100 licenses
+Windows Server Standard - per core (2022, or current) 100 licenses
+Windows Storage Server Workgroup (2016) 2 licenses
+11*Refer to the Change log items no. 3 and 6 for more details.12*Refer to the Change log items no. 2 and 6 for more details.Infrastructure (Azure) product benefits
+Microsoft product name or description Quantity Type
+Azure Bulk Credits (Production) $6,000 per year
+Visual Studio Enterprise subscriptions * 25 users
+Products listed below are ‘core’ (granted once and not incremental) across only the 
+Data & AI, Digital & App Innovation, and Infrastructure (Azure) Solutions Partner 
+designations
+Dynamics 365 Partner Sandbox – Operations Application 25 users
+Dynamics 365 Partner Sandbox – Sales, Field Service and 
+Customer Service25 users
+Microsoft 365 E3 100 users
+Microsoft Project Online (Plan 5) 20 users
+Power BI Premium 100 users
+Visio Online (Plan 2) 5 users
+Microsoft SQL Server Enterprise - per core (2019, or current) 16 licenses
+System Center Client Management Suite (2022 , or current )* 100 licenses
+Microsoft Endpoint Configuration Manager (2019, or current)
+(formerly System Center Configuration Manager Suite)100 licensesInfrastructure (Azure) product benefits (continued)
+Microsoft product name or description Quantity Type
+System Center Endpoint Protection (2019, or current) 100 licenses
+System Center Standard (2022, or current)* 32 licenses
+Windows 11 IoT Enterprise Not yet in market*
+Windows Server CALs (not edition -specific) 100 licenses
+Windows Server Datacenter - per core (2022, or current) 32 licenses
+Windows Server Remote Desktop Services (RDS) CALs (not 
+edition -specific)100 licenses
+Windows Server Standard - per core (2022, or current) 100 licenses
+Windows Storage Server Workgroup (2016) 2 licenses
+13*Refer to the Change log items no. 3 and 6 for more details.Modern Work product benefits
+Microsoft product name or description Quantity Type
+Dynamics 365 Partner Sandbox – Operations Application 25 users
+Dynamics 365 Partner Sandbox – Sales, Field Service and 
+Customer Service25 users
+Microsoft 365 Business Premium 25 users
+Microsoft 365 E5 200 users
+Microsoft 365 EDU A5 25 users
+Microsoft Project Online (Plan 5) 20 users
+Visio Online (Plan 2) 5 users
+Visual Studio Enterprise subscriptions * 25 users
+Viva Suite 50 users
+Windows 365 Enterprise (Premium) 5 users
+Microsoft SQL Server Enterprise - per core (2019, or current) 16 licenses
+System Center Client Management Suite (2022 , or current)* 100 licenses
+Microsoft Endpoint Configuration Manager (2019, or current)
+(formerly System Center Configuration Manager Suite)100 licenses
+System Center Endpoint Protection (2019, or current) 100 licenses
+14*Refer to the Change log items no. 2 and 6 for more details.Modern Work product benefits (continued)
+Microsoft product name or description Quantity Type
+System Center Standard (2022, or current)* 32 licenses
+Windows 11 IoT Enterprise Not yet in market*
+Windows Server CALs (not edition -specific) 100 licenses
+Windows Server Datacenter - per core (2022, or current) 32 licenses
+Windows Server Remote Desktop Services (RDS) CALs (not 
+edition -specific)100 licenses
+Windows Server Standard - per core (2022, or current) 100 licenses
+Windows Storage Server Workgroup (2016) 2 licenses
+15*Refer to the Change log items no. 3 and 6 for more details.Security product benefits
+Microsoft product name or description Quantity Type
+Azure Bulk Credits (Production) $6,000 per year
+Dynamics 365 Partner Sandbox – Operations Application 25 users
+Dynamics 365 Partner Sandbox – Sales, Field Service and 
+Customer Service25 users
+Microsoft 365 Business Premium 12 users
+Microsoft 365 E5 100 users
+Microsoft 365 EDU A5 12 users
+Microsoft Project Online (Plan 5) 20 users
+Visio Online (Plan 2) 5 users
+Visual Studio Enterprise subscriptions * 25 users
+Windows 365 Enterprise (Premium) 2 users
+Microsoft SQL Server Enterprise - per core (2019, or current) 16 licenses
+System Center Client Management Suite (2022 , or current)* 100 licenses
+Microsoft Endpoint Configuration Manager (2019, or current)
+(formerly System Center Configuration Manager Suite)100 licenses
+System Center Endpoint Protection (2019, or current) 100 licenses
+16*Refer to the Change log items no. 2 and 6 for more details.Security product benefits (continued) 
+Microsoft product name or description Quantity Type
+System Center Standard (2022, or current)* 32 licenses
+Windows 11 IoT Enterprise Not yet in market*
+Windows Server CALs (not edition -specific) 100 licenses
+Windows Server Datacenter - per core (2022, or current) 32 licenses
+Windows Server Remote Desktop Services (RDS) CALs (not 
+edition -specific)100 licenses
+Windows Server Standard - per core (2022, or current) 100 licenses
+Windows Storage Server Workgroup (2016) 2 licenses
+17*Refer to the Change log items no. 3 and 6 for more details.Specializations and expert 
+programs product benefits
+As part of the Solutions Partner benefits, if you have earned a specialization, you will 
+receive incremental product benefits to help further accelerate your business. Incremental 
+benefits for specialization and expert programs are only available with Solutions Partner 
+benefits and can not be added to legacy benefits.
+Each category of the specializations and expert programs (Azure, Business Applications, 
+Modern Work and Security) has individual maximum cap amounts for benefits 
+provisioning: the number of specializations or expert programs in that category which 
+will be eligible for incremental product benefits. Refer to the table of specializations and 
+expert programs benefits categories  at the end of this section for the classification. The 
+max cap amounts are outlined in the following tables. Details are subject to change.
+Specialization and expert program benefits will be provided at the time of purchasing 
+Solutions Partner benefits, or at the time of attainment through the remainder of the 
+Solutions Partner membership year for additional specializations and expert programs 
+attained (within the respective max cap amounts). Refer to the illustrative example for 
+more details.
+Azure specialization and expert program product benefits
+Max cap amount: 5  specializations or expert programs
+Microsoft product name or description Quantity Type
+Azure Bulk Credits (Production) $12,000 per year
+GitHub Enterprise Cloud subscriptions
+(Note: Only provided for the DevOps with GitHub on Microsoft Azure specialization)NA*
+Microsoft 365 E3 30 users
+Visual Studio Enterprise subscriptions * 10 users
+18*Refer to the Change log items no. 2 and 3 for more details.Business Applications specialization product benefits
+Max cap amount: 1  specialization
+Microsoft product name or description Quantity Type
+Azure Bulk Credits (Production) $4,500 per year
+Dynamics 365 Business Central Premium 25 users
+Dynamics 365 Customer Service Enterprise 25 users
+Dynamics 365 Finance 25 users
+Dynamics 365 Human Resources 25 users
+Dynamics 365 Marketing (Attach) (includes additional contacts and 
+interactions) 1 tenant
+Dynamics 365 Project Operations 25 users
+Dynamics 365 Sales Enterprise 25 users
+Dynamics 365 Team Members 25 users
+Microsoft 365 E3 50 users
+Visual Studio Enterprise subscriptions * 10 users
+19*Refer to the Change log item no. 2 for more details.Modern Work specialization product benefits
+Max cap amount: 3  specializations
+Microsoft product name or description Quantity Type
+Azure Bulk Credits (Production) $4,500 per year
+Microsoft 365 E5 50 users
+Visual Studio Enterprise subscriptions * 10 users
+Viva Suite 50 users
+Security specialization product benefits
+Max cap amount: 3  specializations
+Microsoft product name or description Quantity Type
+Azure Bulk Credits (Production) $9,000 per year
+Microsoft 365 E5 50 users
+Visual Studio Enterprise subscriptions * 10 users
+20*Refer to the Change log item no. 2 for more details.Specializations and expert programs benefits categories
+The classification of specializations and expert programs for the purposes of benefits 
+provisioning and capping is based on the current advanced specialization classification and 
+includes the Azure Expert MSP program. For clarity, these classifications and the associated 
+specializations and expert programs are listed below. Details are subject to change.
+Category Specialization or expert program name
+AzureAzure Expert MSP
+Infra and Database Migration to Microsoft Azure*
+SAP on Microsoft Azure
+Data Warehouse Migration to Microsoft Azure
+Kubernetes on Microsoft Azure
+Modernization of Web Applications to Microsoft Azure
+Microsoft Windows Virtual Desktop 
+Analytics on Microsoft Azure
+Microsoft Azure VMware Solution 
+AI and Machine Learning on Microsoft Azure 
+DevOps with GitHub on Microsoft Azure 
+Hybrid Operations and Management with Microsoft Azure Arc 
+Hybrid Cloud Infrastructure with Microsoft Azure Stack HCI 
+Networking Services in Microsoft Azure 
+Business
+Applications**Microsoft Low Code Application Development 
+Small and Midsize Business Management
+Sales
+Service
+Finance
+Supply Chain
+Modern WorkAdoption and Change Management 
+Calling for Microsoft Teams
+Customer Solutions for Microsoft Teams 
+Meetings and Meeting Rooms for Microsoft Teams
+Teamwork Deployment 
+SecurityCloud Security 
+Identity and Access Management 
+Information Protection and Governance 
+Threat Protection 
+21Refer to the Change log items no. 7* and no. 8** for more details.Illustrative example
+Review this illustrative example to better understand how the benefits are provided to 
+Solutions Partners for their Solutions Partner designation(s) and specialization(s) or 
+expert program(s). In this example, ‘benefits’ refers to the items listed in this document 
+and excludes other provisions such as badging. Details are subject to change.
+This example follows the fictional company ‘Contoso’, that has attained a legacy gold 
+competency with a single Azure specialization, whose annual legacy competency 
+anniversary date is January 1.
+Date Contoso action Benefits provided
+Oct 2022 Contoso meets the requirements for, 
+and attains, the Solutions Partner for 
+Infrastructure (Azure) designation.No change. Contoso continues to 
+receive and be able to activate their 
+legacy gold competency benefits until 
+their next anniversary date (Jan 1, 
+2023).
+Dec 2022 Contoso earns an additional Azure 
+specialization (total of two).No change (incremental benefits for 
+specialization are only available with 
+Solutions Partner benefits ).
+Jan 2023 At renewal, Contoso meets the 
+requirements for the Solutions 
+Partner for Infrastructure (Azure) 
+designation, selects the benefits for 
+Solutions Partners and pays the 
+aligned fee.Contoso is provided the common 
+benefits, the Infrastructure (Azure) 
+product benefits,  and two sets of the 
+Azure specialization product benefits 
+(assuming continued enrolment and 
+eligibility of both specializations).
+Feb 2023 Contoso meets the requirements for, 
+and attains, the Solutions Partner for 
+Data & AI (Azure) designation.Contoso is provided the incremental 
+Data & AI (Azure) product benefits (i.e., 
+Azure credits, Visual Studio 
+subscriptions), with an expiry date of 
+Contoso’s next membership 
+anniversary date (Jan 1, 2024).
+Mar 2023 Contoso meets the requirements for, 
+and is awarded, four additional Azure 
+specializations (total of six).Contoso is provided three additional 
+incremental sets of the Azure 
+specialization product benefits 
+(considering the max cap of five Azure 
+specialization benefits) with an expiry 
+date of Contoso’s next membership 
+anniversary date (Jan 1, 2024).
+22Change log
+The following is a summary of the latest updates made to the Solutions Partner Benefits 
+Guide. 
+Please note that program information herein is subject to change and should not be 
+interpreted as an offer, endorsement, guarantee, commitment or any other type of 
+representation on the part of Microsoft. Be sure to review the benefits information in 
+Partner Center before paying the annual fee. 
+Date Update number and title Details
+August 
+20221) GTM Toolbox points While the GTM Toolbox – used to 
+create co -branded assets – will remain 
+active, the 18 points for editorial review 
+of the assets will no longer be offered.
+[Removed from tables as of June 2023]
+2) Azure dev/test sponsorship and 
+creditsThe planned launch of an Azure 
+dev/test bulk sponsorship has been 
+delayed until further notice. In the 
+interim, dev/test credits will be re -
+introduced to the Visual Studio 
+Enterprise subscriptions. The features 
+of these Visual Studio Enterprise 
+subscriptions will be the same as those 
+offered as benefits for silver and gold 
+competencies.
+3) Windows 11 IoT Product keys are only provided for 
+software available via volume licensing. 
+Currently Windows 11 IoT is not 
+available in market via volume 
+licensing.
+4) GitHub Enterprise Cloud 
+subscriptions for the DevOps with 
+GitHub on Microsoft Azure 
+specializationGitHub Enterprise Cloud subscriptions 
+for the DevOps with GitHub on 
+Microsoft Azure specialization will not 
+be available until further notice.
+December 
+20225) Updates to language for clarity A) Updated the name of System 
+Center Configuration Manager Suite to 
+Microsoft Endpoint Configuration 
+Manager. B) Updated the introduction 
+of the Specialization section.
+23Change log (continued)
+Date Update number and title Details
+January 
+20236) Updated System Center Standard, 
+and Client Management Suite to 2022 
+versionsProduct keys and media for the 2022 
+versions of System Center Standard 
+and System Center Client Management 
+Suite and been added in Partner 
+Center.
+7) Updated list of applicable Azure 
+specializations to reflect updates with 
+new Infra and Database Migration to 
+Microsoft Azure Specialization As of January 9, 2023, the new Infra 
+and Database Migration to Microsoft 
+Azure Specialization will combine and 
+replace the Windows Server and SQL 
+Server Migration to Microsoft Azure 
+specialization and the Linux and Open -
+Source Database Migration to 
+Microsoft Azure specialization. 
+Any incremental products benefit 
+packages that have already been 
+provisioned for enrollment in either the 
+Windows Server and SQL Server 
+Migration to Microsoft Azure 
+specialization and/or the Linux and 
+Open -Source Database Migration to 
+Microsoft Azure specialization will not 
+be affected during your current 
+organization’s solutions partner 
+designation year. Please note, however, 
+that at your organization’s next 
+solutions partner designation 
+anniversary date, only the Infra and 
+Database Migration to Microsoft 
+specialization will be eligible for 
+incremental product benefits against 
+the maximum cap of five Azure 
+specializations.
+June 
+20238) Updated list of applicable Business 
+Applications specializations to reflect 
+updates with four new specializationsAs of March 2023, four new 
+specializations  were introduced: 
+Finance, Sales, Service, and Supply 
+Chain. These specializations are eligible 
+for incremental product benefits 
+against the maximum cap of one 
+Business Applications specializations.
+24License table for 
+Microsoft Action Pack
+25The information in this document is intended to help partners understand the product 
+licenses included in Microsoft Action Pack Subscription (Action Pack) and the Learning 
+Action Pack. 
+The content herein is being provided solely for discussion and general information 
+purposes. Program information herein is subject to change and should not be interpreted 
+as an offer, endorsement, guarantee, commitment or any other type of representation on 
+the part of Microsoft. All decisions pertaining and related to your business needs 
+including but not limited to strategies, solutions, partner selection, implementation, etc. 
+rests solely with your business. Be sure to review the benefits information in Partner 
+Center before paying the annual fee. Partners must comply with the use terms and 
+policies regarding benefits and license use rights and limitations about each software 
+product or online service as outlined in the Microsoft Cloud Partner Program Terms of 
+Participation Guide. For more information, refer to the links below.
+Microsoft Cloud Partner Program Terms of Participation Guide.
+Microsoft Action Pack
+Apps & InfrastructureLAST UPDATED: SEPTEMBER 2022 
+Microsoft product name or description Type Quantity
+Azure AD Basic Cloud Service 5
+Microsoft Azure Azure credit US$100 per month
+Microsoft Visual Studio Professional 
+SubscriptionCloud Service 3Apps & Infrastructure (continued)
+26Microsoft product name or description Type Quantity
+R Server for SUSE Linux On-Premises 1
+R Server for Teradata DB On-Premises 1
+System Center 2022 Client Management Suite On-Premises 10
+System Center 2022 Standard On-Premises 16
+System Center Configuration Manager
+(current branch)On-Premises 10
+System Center Endpoint Protection
+(current branch)On-Premises 10
+Windows Server 2022 CALs
+(not edition specific)On-Premises 10
+Windows Server 2019 Essentials (Per Core) On-Premises 1
+Windows Server 2019 Remote Desktop Services 
+(RDS) CALsOn-Premises 10
+Windows Server 2022 Standard (Per Core) On-Premises 16
+Windows Storage Server 2016 Workgroup On-Premises 1
+Business Applications
+Microsoft product name or description Type Quantity
+Microsoft Dynamics 365 – Customer 
+EngagementCloud Service 527Business Applications (continued)
+Microsoft product name or description Type Quantity
+Microsoft Dynamics CRM Workgroup Server 
+2016On-Premises1 server
+license provides 
+access to five users
+Data & AI
+Microsoft product name or description Type Quantity
+Machine Learning Server for Hadoop On-Premises 1
+Machine Learning Server for Linux On-Premises 1
+Microsoft SQL Server 2019 Standard (per core) On-Premises 2
+Modern Workplace
+Microsoft product name or description Type Quantity
+Enterprise Mobility Suite Cloud Service 5
+Microsoft Intune Cloud Service 5
+Microsoft Office 365 E3 Cloud Service 5Modern Workplace (continued) 
+28Microsoft product name or description Type Quantity
+Advanced Threat Analytics Client
+Management LicenseOn-Premises 5
+Microsoft Desktop Optimization Pack
+(MDOP) 2015On-Premises 10
+Microsoft Exchange Server 2019 Standard On-Premises 1
+Microsoft Exchange Server 2019 Standard CALs On-Premises 10
+Microsoft Office Professional Plus 2019 On-Premises 10
+Microsoft Project Professional 2019 On-Premises 1
+Microsoft SharePoint Server 2019 Enterprise On-Premises 1
+Microsoft SharePoint Server 2019 Enterprise 
+CALs (include Standard CALs)On-Premises 10
+Microsoft Skype for Business Server 2019 On-Premises 1
+Microsoft Skype for Business Server 2019 
+Standard CALsOn-Premises 10
+Microsoft Visio Professional 2019 On-Premises 1
+Windows 10 and 11 Enterprise (Current Branch 
+or LTSC 2019)On-Premises 10
+Windows 10 and 11 Professional (Current Branch 
+or LTSC 2019)On-Premises 10
+Windows Embedded 8 Standard On-Premises 1029Modern Workplace (continued)
+Microsoft product name or description Type Quantity
+Windows Embedded 8.1 Industry Enterprise On-Premises 10
+Windows Embedded 8.1 Industry Pro On-Premises 10
+Windows Embedded POS Ready 7 On-Premises 10
+Windows 10 and 11 Inbox Apps and
+Language PackOn-Premises 10
+Benefits table for 
+Microsoft Learning Action Pack
+Benefit Offer Details
+Azure Credit (Monthly) $100
+Windows 10 Enterprise – Learning VHD 100
+Visual Studio Pro 3
+Microsoft Office 365 (E3) Seats 5
+SQL Server 2019 Standard ​(Per Core) 2
+Windows Server 2019 Essentials 1
+Windows Server 2019 CALs 10
+Dynamics 365 – Customer Engagement 5
+Services: Technical Journeys 5 Hours
+Support: Product Support Incidents 10

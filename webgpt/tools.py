@@ -1,11 +1,7 @@
-from langchain import FAISS, GoogleSerperAPIWrapper, SerpAPIWrapper
-from langchain.agents import Tool
-from langchain.chains import RetrievalQA
+from langchain import FAISS
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
-from langchain.llms import AzureOpenAI
 from langchain.document_loaders import TextLoader
-from loguru import logger
 from salesgpt.logger import time_logger
 
 @time_logger

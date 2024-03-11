@@ -1,9 +1,7 @@
 import streamlit as st
 from PyPDF2 import PdfReader
 from langchain.text_splitter import CharacterTextSplitter
-from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
-from langchain.chat_models import AzureChatOpenAI
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from langchain_community.chat_models import ChatOpenAI
@@ -14,12 +12,9 @@ from pytesseract import image_to_string
 from langchain.embeddings import SentenceTransformerEmbeddings
 from langchain.callbacks import get_openai_callback
 import os
-import shutil
-# Azure Details:
 from dotenv import load_dotenv,find_dotenv
 load_dotenv(find_dotenv())
-#print(os.environ.get("OPENAI_API_KEY"))
-#print(os.environ.get("OPENAI_API_ORG"))
+
 class Pdferror(Exception):
     pass
 
@@ -133,12 +128,6 @@ def get_text_chunks(text_dict, pdf_names):
 
 def get_vectorstore(text_chunks, pdf_names):
     embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
-    # embeddings = OpenAIEmbeddings(deployment="bradsol-embedding-test", chunk_size=1, request_timeout=10)
-    #llm = AzureChatOpenAI(deployment_name="qnagpt5", model_name="gpt-35-turbo", request_timeout=10)
-    llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo",
-                     openai_api_key=os.environ.get("OPENAI_API_KEY"),
-                     openai_organization=os.environ.get("OPENAI_API_ORG"))
-
     for i in range(len(text_chunks)):
         text = text_chunks[pdf_names[i]]
         vectorstore_temp = FAISS.from_texts(texts=text, embedding=embeddings)
@@ -148,12 +137,10 @@ def get_vectorstore(text_chunks, pdf_names):
         else:
             print(i)
             vectorstore = vectorstore_temp
-    #print(vectorstore)
     return vectorstore
 
 
 def get_conversation_chain(vectorstore):
-    #llm = AzureChatOpenAI(deployment_name="qnagpt5", model_name="gpt-35-turbo", request_timeout=10)
     llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo",
                      openai_api_key=os.environ.get("OPENAI_API_KEY"),
                      openai_organization=os.environ.get("OPENAI_API_ORG"))
@@ -183,7 +170,7 @@ def handle_userinput(user_question):
 
 
 def main_1():
-
+    st.session_state.summary_ans = None
     try:
         st.set_page_config(page_title="Chat with multiple PDFs", page_icon=":books:")
         st.write(css, unsafe_allow_html=True)

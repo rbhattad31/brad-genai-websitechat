@@ -21,3 +21,69 @@ salesgpt.logger 2024-03-11 14:24:20,220 - INFO - Running add_knowledge_base_to_s
 httpx 2024-03-11 14:24:30,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx 2024-03-11 14:24:31,127 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 httpx 2024-03-11 14:24:31,860 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+langchain_text_splitters.base 2024-03-11 15:08:10,970 - WARNING - Created a chunk of size 1159, which is longer than the specified 1000
+httpx 2024-03-11 15:08:12,369 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+faiss.loader 2024-03-11 15:08:12,810 - INFO - Loading faiss with AVX512 support.
+faiss.loader 2024-03-11 15:08:12,811 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+faiss.loader 2024-03-11 15:08:12,811 - INFO - Loading faiss with AVX2 support.
+faiss.loader 2024-03-11 15:08:12,901 - INFO - Successfully loaded faiss with AVX2 support.
+salesgpt.logger 2024-03-11 15:08:12,911 - INFO - Running add_knowledge_base_to_store: --- 1.9413537979125977 seconds ---
+langchain_community.document_loaders.async_html 2024-03-11 15:08:18,803 - INFO - fake_useragent not found, using default user agent.To get a realistic header for requests, `pip install fake_useragent`.
+httpx 2024-03-11 15:08:22,893 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+langchain_text_splitters.base 2024-03-11 15:19:34,601 - WARNING - Created a chunk of size 1159, which is longer than the specified 1000
+httpx 2024-03-11 15:19:34,970 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+salesgpt.logger 2024-03-11 15:19:35,433 - INFO - Running add_knowledge_base_to_store: --- 0.833320140838623 seconds ---
+langchain_text_splitters.base 2024-03-11 15:20:11,147 - WARNING - Created a chunk of size 1159, which is longer than the specified 1000
+httpx 2024-03-11 15:20:11,516 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+salesgpt.logger 2024-03-11 15:20:11,980 - INFO - Running add_knowledge_base_to_store: --- 0.8334596157073975 seconds ---
+faiss.loader 2024-03-11 15:21:23,233 - INFO - Loading faiss with AVX512 support.
+faiss.loader 2024-03-11 15:21:23,233 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+faiss.loader 2024-03-11 15:21:23,233 - INFO - Loading faiss with AVX2 support.
+faiss.loader 2024-03-11 15:21:23,380 - INFO - Successfully loaded faiss with AVX2 support.
+langchain_text_splitters.base 2024-03-11 15:24:35,742 - WARNING - Created a chunk of size 1159, which is longer than the specified 1000
+httpx 2024-03-11 15:24:36,410 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+salesgpt.logger 2024-03-11 15:24:36,855 - INFO - Running add_knowledge_base_to_store: --- 1.1130776405334473 seconds ---
+langchain_text_splitters.base 2024-03-11 15:24:48,524 - WARNING - Created a chunk of size 1159, which is longer than the specified 1000
+httpx 2024-03-11 15:24:48,990 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+salesgpt.logger 2024-03-11 15:24:49,378 - INFO - Running add_knowledge_base_to_store: --- 0.8534753322601318 seconds ---
+httpx 2024-03-11 15:24:58,105 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-11 15:25:06,180 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-11 15:25:06,649 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-11 15:25:07,151 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+faiss.loader 2024-03-11 15:28:08,978 - INFO - Loading faiss with AVX512 support.
+faiss.loader 2024-03-11 15:28:08,978 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+faiss.loader 2024-03-11 15:28:08,979 - INFO - Loading faiss with AVX2 support.
+faiss.loader 2024-03-11 15:28:09,100 - INFO - Successfully loaded faiss with AVX2 support.
+sentence_transformers.SentenceTransformer 2024-03-11 15:28:37,102 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+sentence_transformers.SentenceTransformer 2024-03-11 15:28:40,636 - INFO - Use pytorch device_name: cpu
+httpx 2024-03-11 15:28:45,957 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-11 15:28:59,462 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+langchain_text_splitters.base 2024-03-11 15:53:44,174 - WARNING - Created a chunk of size 1159, which is longer than the specified 1000
+httpx 2024-03-11 15:53:44,814 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+salesgpt.logger 2024-03-11 15:53:45,242 - INFO - Running add_knowledge_base_to_store: --- 1.0683948993682861 seconds ---
+faiss.loader 2024-03-11 15:54:15,849 - INFO - Loading faiss with AVX512 support.
+faiss.loader 2024-03-11 15:54:15,851 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+faiss.loader 2024-03-11 15:54:15,851 - INFO - Loading faiss with AVX2 support.
+faiss.loader 2024-03-11 15:54:15,883 - INFO - Successfully loaded faiss with AVX2 support.
+httpx 2024-03-11 15:54:22,952 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-11 15:54:30,738 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-11 15:54:31,546 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-11 15:54:32,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+langchain_text_splitters.base 2024-03-11 15:58:26,909 - WARNING - Created a chunk of size 1159, which is longer than the specified 1000
+httpx 2024-03-11 15:58:27,341 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+salesgpt.logger 2024-03-11 15:58:27,757 - INFO - Running add_knowledge_base_to_store: --- 0.8490736484527588 seconds ---
+faiss.loader 2024-03-11 16:00:00,196 - INFO - Loading faiss with AVX512 support.
+faiss.loader 2024-03-11 16:00:00,197 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+faiss.loader 2024-03-11 16:00:00,197 - INFO - Loading faiss with AVX2 support.
+faiss.loader 2024-03-11 16:00:00,220 - INFO - Successfully loaded faiss with AVX2 support.
+sentence_transformers.SentenceTransformer 2024-03-11 16:03:34,345 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+sentence_transformers.SentenceTransformer 2024-03-11 16:03:37,110 - INFO - Use pytorch device_name: cpu
+sentence_transformers.SentenceTransformer 2024-03-11 16:08:59,908 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+sentence_transformers.SentenceTransformer 2024-03-11 16:09:02,742 - INFO - Use pytorch device_name: cpu
+httpx 2024-03-11 16:09:06,612 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-11 16:09:18,103 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
