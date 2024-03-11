@@ -7,13 +7,23 @@ from langchain.tools.retriever import create_retriever_tool
 from langchain.agents import AgentExecutor, create_openai_tools_agent
 import os
 import streamlit as st
-
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import sys
+import traceback
+import time
+import os
 
 from dotenv import load_dotenv,find_dotenv
 load_dotenv(find_dotenv())
 if __name__ == "__main__":
 
     if not os.path.isdir('faiss_index'):
+        print("Creating Index")
         add_knowledge_base_to_store()
 
     # Retrieve and generate using the relevant snippets of the blog.

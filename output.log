@@ -10,3 +10,14 @@ httpx 2024-03-11 13:51:26,693 - INFO - HTTP Request: POST https://api.openai.com
 httpx 2024-03-11 13:51:37,147 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx 2024-03-11 13:51:37,582 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 httpx 2024-03-11 13:51:38,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+langchain_text_splitters.base 2024-03-11 14:24:17,552 - WARNING - Created a chunk of size 1159, which is longer than the specified 1000
+httpx 2024-03-11 14:24:19,676 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+faiss.loader 2024-03-11 14:24:20,183 - INFO - Loading faiss with AVX512 support.
+faiss.loader 2024-03-11 14:24:20,183 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+faiss.loader 2024-03-11 14:24:20,184 - INFO - Loading faiss with AVX2 support.
+faiss.loader 2024-03-11 14:24:20,208 - INFO - Successfully loaded faiss with AVX2 support.
+salesgpt.logger 2024-03-11 14:24:20,220 - INFO - Running add_knowledge_base_to_store: --- 2.668262243270874 seconds ---
+httpx 2024-03-11 14:24:30,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-11 14:24:31,127 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-11 14:24:31,860 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

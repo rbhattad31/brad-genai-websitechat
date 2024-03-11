@@ -10,3 +10,4 @@ streamlit
 sentence-transformers
 langchain_text_splitters
 langchainhub
+selenium
