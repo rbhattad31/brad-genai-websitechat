@@ -18,7 +18,7 @@ def add_knowledge_base_to_store():
         """
     # load the document and split it into chunks
     # Load, chunk and index the contents of the blog.
-    config_path = 'Config.xlsx'
+    config_path = 'WebChat_Config.xlsx'
     sheet = 'Sheet1'
     config_dict,status = create_main_config_dictionary(config_path,sheet)
     chrome_driver_path = config_dict['chrome_driver_path']

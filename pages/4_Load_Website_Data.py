@@ -21,7 +21,7 @@ st.set_page_config(page_title="Load Website Data", page_icon="📊")
 st.markdown("# Website Data")
 st.markdown('<p style="color: #0000FF; font-weight: bold;">Your URL\'s:</p>', unsafe_allow_html=True)
 
-config_excel_path = 'Config.xlsx'
+config_excel_path = 'WebChat_Config.xlsx'
 sheet = 'Sheet1'
 # url = ['https://testsite.loadcanadauscanada.com/property-owners/','https://testsite.loadcanadauscanada.com/about/','https://testsite.loadcanadauscanada.com/popular-areas/','https://testsite.loadcanadauscanada.com/contact/']
 config_dict,status = create_main_config_dictionary(config_excel_path,sheet)
