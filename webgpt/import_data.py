@@ -96,7 +96,7 @@ def get_data(driver,output_file_directory,links):
                 driver.get(link)
                 property_text = driver.execute_script("return document.body.innerText;")
                 print(property_text)
-                with open(output_file_path, "w") as file:
+                with open(output_file_path, "w",encoding='utf-8') as file:
                     file.write(property_text)
             except Exception as e:
                 print(f"Exception occured in extracting data for link {link} {e}")

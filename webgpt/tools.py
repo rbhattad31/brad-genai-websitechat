@@ -39,7 +39,7 @@ def add_knowledge_base_to_store():
     else:
         output_file_paths = []
     if len(output_file_paths) !=0:
-        with open('dummy_file.txt', 'w') as file:
+        with open('dummy_file.txt', 'w',encoding='utf-8') as file:
             # No need to write anything, as the file is empty
             file.write('Below is the data extracted from websites')
         loader = TextLoader('dummy_file.txt', encoding='UTF-8')
