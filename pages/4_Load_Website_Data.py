@@ -14,14 +14,18 @@
 
 import streamlit as st
 from webgpt.tools import  add_knowledge_base_to_store
+from Config import create_main_config_dictionary
 from streamlit.hello.utils import show_code
 
 st.set_page_config(page_title="Load Website Data", page_icon="📊")
 st.markdown("# Website Data")
 st.markdown('<p style="color: #0000FF; font-weight: bold;">Your URL\'s:</p>', unsafe_allow_html=True)
 
-url = ['https://testsite.loadcanadauscanada.com/property-owners/','https://testsite.loadcanadauscanada.com/about/','https://testsite.loadcanadauscanada.com/popular-areas/','https://testsite.loadcanadauscanada.com/contact/']
-
+config_excel_path = 'Config.xlsx'
+sheet = 'Sheet1'
+# url = ['https://testsite.loadcanadauscanada.com/property-owners/','https://testsite.loadcanadauscanada.com/about/','https://testsite.loadcanadauscanada.com/popular-areas/','https://testsite.loadcanadauscanada.com/contact/']
+config_dict,status = create_main_config_dictionary(config_excel_path,sheet)
+url = str(config_dict['links']).split(',')
 # st.text(url)
 for u in url:
     st.markdown(f"[{u}]({u})", unsafe_allow_html=True)
@@ -29,6 +33,7 @@ for u in url:
 if st.button("Fetch Data"):
     with st.spinner("Processing"):
         add_knowledge_base_to_store()
+    st.success("Website data is extracted.Redirecting you to webchat")
 #st.sidebar.header("Website Data")
 with st.sidebar:
     st.subheader("Website Data")

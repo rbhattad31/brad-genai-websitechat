@@ -9,6 +9,7 @@ import traceback
 import time
 import os
 
+
 def initialize_driver(chrome_driver_path,url):
     try:
         options = Options()
@@ -84,6 +85,7 @@ def get_data(driver,output_file_directory,links):
         # property_owners_xpath = "//a[contains(text(),'For Property Owners')]"
         # property_owners = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,property_owners_xpath)))
         # property_owners_link = property_owners.get_attribute("href")
+        output_file_paths = []
         for link in links:
             try:
                 parts = link.split('/')
@@ -100,6 +102,7 @@ def get_data(driver,output_file_directory,links):
                 print(f"Exception occured in extracting data for link {link} {e}")
             else:
                 print(f"Successfully extracted data for link-{link}")
+                output_file_paths.append(output_file_path)
     except Exception as e:
         print(f"Exception occured in getting data {e}")
         exc_type, exc_value, exc_traceback = sys.exc_info()
@@ -110,21 +113,6 @@ def get_data(driver,output_file_directory,links):
         # Print the traceback details
         for line in traceback_details:
             print(line.strip())
-        return False
+        return False,[]
     else:
-        return True
-
-
-chrome_driver_path = r"C:\Users\BRADSOL123\Documents\chromedriver-win32\chromedriver-win32\chromedriver.exe"
-output_file_directory = r"C:\Users\BRADSOL123\Documents\Dev Site"
-if not os.path.exists(output_file_directory):
-    os.makedirs(output_file_directory)
-url = 'https://testsite.loadcanadauscanada.com/login-3/'
-username = 'testuser'
-password = 'Test1234@Test1234'
-links = ['https://testsite.loadcanadauscanada.com/property-owners/','https://testsite.loadcanadauscanada.com/about/','https://testsite.loadcanadauscanada.com/popular-areas/','https://testsite.loadcanadauscanada.com/contact/']
-login_status,driver = login(chrome_driver_path,url,username,password)
-if login_status:
-    data = get_data(driver,output_file_directory,links)
-    if data:
-        print("Successfully extracted data from Site")
+        return True,output_file_paths
