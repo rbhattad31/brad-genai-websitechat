@@ -21,7 +21,7 @@ if __name__ == "__main__":
     if os.path.isdir('faiss_index'):
         st.write("Website Content Loaded", unsafe_allow_html=True)
         embeddings = OpenAIEmbeddings()
-        db = FAISS.load_local("faiss_index", embeddings)
+        db = FAISS.load_local("faiss_index", embeddings, allow_dangerous_deserialization = True)
         retriever = db.as_retriever()
         tool = create_retriever_tool(
             retriever,

@@ -12,3 +12,4 @@ langchain_text_splitters
 langchainhub
 selenium
 openpyxl
+mysql

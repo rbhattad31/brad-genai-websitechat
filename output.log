@@ -87,3 +87,248 @@ sentence_transformers.SentenceTransformer 2024-03-11 16:08:59,908 - INFO - Load 
 sentence_transformers.SentenceTransformer 2024-03-11 16:09:02,742 - INFO - Use pytorch device_name: cpu
 httpx 2024-03-11 16:09:06,612 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 httpx 2024-03-11 16:09:18,103 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+langchain_text_splitters.base 2024-03-11 16:29:44,765 - WARNING - Created a chunk of size 1159, which is longer than the specified 1000
+httpx 2024-03-11 16:29:45,569 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+faiss.loader 2024-03-11 16:29:45,909 - INFO - Loading faiss with AVX512 support.
+faiss.loader 2024-03-11 16:29:45,910 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+faiss.loader 2024-03-11 16:29:45,910 - INFO - Loading faiss with AVX2 support.
+faiss.loader 2024-03-11 16:29:45,936 - INFO - Successfully loaded faiss with AVX2 support.
+salesgpt.logger 2024-03-11 16:29:45,947 - INFO - Running add_knowledge_base_to_store: --- 1.182640790939331 seconds ---
+faiss.loader 2024-03-11 16:45:38,298 - INFO - Loading faiss with AVX512 support.
+faiss.loader 2024-03-11 16:45:38,299 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+faiss.loader 2024-03-11 16:45:38,299 - INFO - Loading faiss with AVX2 support.
+faiss.loader 2024-03-11 16:45:38,319 - INFO - Successfully loaded faiss with AVX2 support.
+root 2024-03-12 11:14:50,096 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:14:50,104 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:14:50,104 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:14:52,275 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:14:52,281 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:14:52,282 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:14:52,288 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:14:52,297 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:14:52,298 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:19:48,516 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:19:48,527 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:19:48,527 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:19:53,157 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:19:53,164 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:19:53,165 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:19:53,172 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:19:53,179 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:19:53,179 - INFO - Config dictionary is created from config file
+salesgpt.logger 2024-03-12 11:20:02,866 - INFO - Running add_knowledge_base_to_store: --- 9.695105791091919 seconds ---
+root 2024-03-12 11:22:00,229 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:22:00,236 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:22:00,237 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:22:02,802 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:22:02,812 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:22:02,813 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:22:04,173 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:22:04,182 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:22:04,183 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:22:04,187 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:22:04,194 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:22:04,194 - INFO - Config dictionary is created from config file
+salesgpt.logger 2024-03-12 11:22:13,639 - INFO - Running add_knowledge_base_to_store: --- 9.452221393585205 seconds ---
+root 2024-03-12 11:24:05,434 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:24:05,434 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:24:05,449 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:24:05,450 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:24:05,450 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:24:05,451 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:24:10,806 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:24:10,814 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:24:10,815 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:24:12,496 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:24:12,504 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:24:12,504 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:24:12,512 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:24:12,520 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:24:12,520 - INFO - Config dictionary is created from config file
+salesgpt.logger 2024-03-12 11:24:21,883 - INFO - Running add_knowledge_base_to_store: --- 9.36985182762146 seconds ---
+root 2024-03-12 11:26:25,208 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:26:25,209 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:26:25,225 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:26:25,225 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:26:25,225 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:26:25,226 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:26:28,551 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:26:28,559 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:26:28,560 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:26:29,764 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:26:29,772 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:26:29,772 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:26:29,778 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:26:29,786 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:26:29,786 - INFO - Config dictionary is created from config file
+httpx 2024-03-12 11:26:54,362 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+faiss.loader 2024-03-12 11:26:54,380 - INFO - Loading faiss with AVX512 support.
+faiss.loader 2024-03-12 11:26:54,381 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+faiss.loader 2024-03-12 11:26:54,381 - INFO - Loading faiss with AVX2 support.
+faiss.loader 2024-03-12 11:26:54,410 - INFO - Successfully loaded faiss with AVX2 support.
+root 2024-03-12 11:38:42,706 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:38:42,716 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:38:42,717 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:38:44,572 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:38:44,581 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:38:44,581 - INFO - Config dictionary is created from config file
+root 2024-03-12 11:38:44,587 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:38:44,596 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:38:44,596 - INFO - Config dictionary is created from config file
+httpx 2024-03-12 11:39:09,252 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+faiss.loader 2024-03-12 11:39:09,261 - INFO - Loading faiss with AVX512 support.
+faiss.loader 2024-03-12 11:39:09,261 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+faiss.loader 2024-03-12 11:39:09,262 - INFO - Loading faiss with AVX2 support.
+faiss.loader 2024-03-12 11:39:09,284 - INFO - Successfully loaded faiss with AVX2 support.
+httpx 2024-03-12 11:39:09,985 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:39:11,004 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:39:11,795 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:39:12,617 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+salesgpt.logger 2024-03-12 11:39:14,659 - INFO - Running add_knowledge_base_to_store: --- 30.07169795036316 seconds ---
+httpx 2024-03-12 11:39:40,459 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:39:50,019 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:39:50,604 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:39:51,426 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+root 2024-03-12 11:40:02,918 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-12 11:40:02,927 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-12 11:40:02,928 - INFO - Config dictionary is created from config file
+httpx 2024-03-12 11:41:28,134 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:41:28,637 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:41:29,296 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:41:51,299 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:41:51,855 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:41:53,220 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:42:10,153 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:42:10,817 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:42:11,546 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:48:02,949 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:48:03,639 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:48:04,416 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:48:20,449 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:48:20,996 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-12 11:48:21,650 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+root 2024-03-13 11:27:38,637 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 11:27:38,650 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 11:27:38,650 - INFO - Config dictionary is created from config file
+root 2024-03-13 11:27:41,378 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 11:27:41,384 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 11:27:41,385 - INFO - Config dictionary is created from config file
+root 2024-03-13 11:27:41,390 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 11:27:41,395 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 11:27:41,395 - INFO - Config dictionary is created from config file
+httpx 2024-03-13 11:28:08,264 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 11:28:08,859 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 11:28:09,784 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 11:28:10,533 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 11:28:11,455 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+salesgpt.logger 2024-03-13 11:28:13,523 - INFO - Running add_knowledge_base_to_store: --- 32.13417315483093 seconds ---
+httpx 2024-03-13 11:29:38,680 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 11:29:48,652 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 11:29:49,236 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 11:29:50,048 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+root 2024-03-13 15:23:35,675 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 15:23:35,687 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 15:23:35,688 - INFO - Config dictionary is created from config file
+root 2024-03-13 15:23:41,540 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 15:23:41,546 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 15:23:41,547 - INFO - Config dictionary is created from config file
+root 2024-03-13 15:23:41,551 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 15:23:41,558 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 15:23:41,558 - INFO - Config dictionary is created from config file
+httpx 2024-03-13 15:24:08,696 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:24:09,825 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:24:10,798 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:24:11,565 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:24:12,404 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+salesgpt.logger 2024-03-13 15:24:14,453 - INFO - Running add_knowledge_base_to_store: --- 32.90177130699158 seconds ---
+httpx 2024-03-13 15:24:25,272 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+root 2024-03-13 15:57:55,471 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 15:57:55,480 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 15:57:55,481 - INFO - Config dictionary is created from config file
+root 2024-03-13 15:58:03,018 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 15:58:03,024 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 15:58:03,024 - INFO - Config dictionary is created from config file
+root 2024-03-13 15:58:03,031 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 15:58:03,041 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 15:58:03,042 - INFO - Config dictionary is created from config file
+httpx 2024-03-13 15:58:27,390 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:58:27,908 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:58:28,824 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:58:29,584 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:58:30,375 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+salesgpt.logger 2024-03-13 15:58:32,437 - INFO - Running add_knowledge_base_to_store: --- 29.405348539352417 seconds ---
+httpx 2024-03-13 15:58:53,171 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:58:53,662 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:58:54,326 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:59:09,084 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:59:09,605 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:59:11,633 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:59:36,060 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:59:36,699 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 15:59:37,388 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+root 2024-03-13 16:55:42,640 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 16:55:42,649 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 16:55:42,650 - INFO - Config dictionary is created from config file
+root 2024-03-13 16:55:55,370 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 16:55:55,375 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 16:55:55,375 - INFO - Config dictionary is created from config file
+root 2024-03-13 16:55:55,382 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 16:55:55,388 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 16:55:55,389 - INFO - Config dictionary is created from config file
+httpx 2024-03-13 16:56:21,938 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:56:22,447 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:56:23,357 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:56:24,032 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:56:24,942 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+salesgpt.logger 2024-03-13 16:56:26,992 - INFO - Running add_knowledge_base_to_store: --- 31.609819650650024 seconds ---
+httpx 2024-03-13 16:56:47,026 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:56:54,279 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:56:54,792 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:56:55,801 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+root 2024-03-13 16:57:03,083 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 16:57:03,091 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 16:57:03,091 - INFO - Config dictionary is created from config file
+httpx 2024-03-13 16:57:28,636 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:57:29,249 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:57:30,340 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:57:46,323 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:57:47,034 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:57:47,613 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:58:12,907 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:58:13,518 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-13 16:58:14,307 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+root 2024-03-13 16:58:51,026 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 16:58:51,033 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 16:58:51,033 - INFO - Config dictionary is created from config file
+root 2024-03-13 17:03:13,998 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-13 17:03:14,006 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-13 17:03:14,007 - INFO - Config dictionary is created from config file
+root 2024-03-14 20:24:21,737 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-14 20:24:21,744 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-14 20:24:21,745 - INFO - Config dictionary is created from config file
+root 2024-03-14 20:24:52,855 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-14 20:24:52,865 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-14 20:24:52,866 - INFO - Config dictionary is created from config file
+root 2024-03-14 20:24:59,103 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-14 20:24:59,116 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-14 20:24:59,116 - INFO - Config dictionary is created from config file
+root 2024-03-14 20:24:59,125 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-14 20:24:59,137 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-14 20:24:59,138 - INFO - Config dictionary is created from config file
+httpx 2024-03-14 20:25:25,263 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-14 20:25:25,839 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-14 20:25:26,924 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-14 20:25:27,629 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+httpx 2024-03-14 20:25:28,588 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+salesgpt.logger 2024-03-14 20:25:30,664 - INFO - Running add_knowledge_base_to_store: --- 31.540290355682373 seconds ---
+httpx 2024-03-14 20:25:48,867 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+root 2024-03-14 20:26:38,259 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-14 20:26:38,267 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-14 20:26:38,267 - INFO - Config dictionary is created from config file
+root 2024-03-21 15:22:08,703 - INFO - Config file path: WebChat_Config.xlsx is exist
+root 2024-03-21 15:22:08,719 - INFO - Config sheet 'Sheet1' is read
+root 2024-03-21 15:22:08,719 - INFO - Config dictionary is created from config file
